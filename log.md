@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 2017-Jan-02
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started my first #100days of code project today. Its purpose is to create to make railway performance data availabel as open data and over time. To do that I need to scrape PDFs, extract data via [PDFTables](http://twitter.com/@pdftables) and put that into #SQLITE database, and finally visualise it. I might try to create an API too. I got the first part started. Found the target link on the page, folled it. Grabbed the name of the PDF, stored that, and downloaded the PDF itself.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Having been doing no coding for what feels like years (but is more like months) it feels good to be back working on a project. This builds on the four Coursera python courses I studied over xmas and New Year. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: 2017-Jan-03
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Signed up for the PDF Tables API. I got the PDF to CSV conversion via API working. Now it retrieves a CSV. Initial data extraction from CSV done but rough.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I chose CSV as, having tested the alternative file formats that the API returns, it seems easier to work with than XSLX or XML in this case due to the weird format of the original PDF. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: 2017-Jan-04 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Worked on my railways data scraper in Python.  Strung all test progs together into one combined programme. Archived the test scripts. and worked straight off. Will push v1 to github tomorrow, I promise.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Please that the parts of the programme came together without issue.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+To be added. 
