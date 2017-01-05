@@ -25,6 +25,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. If you are interested in learning Python then this is a very good place to start: [Learn Python](https://www.learnpython.org). You can then move to the first four [free courses](https://www.coursera.org/specializations/python) from Coursera which are highly recommended, as is the accompanying free Kindle title from [DrChuck](http://twitter.com/drchuck/) which is called [Python For Informatics](https://www.amazon.co.uk/Python-Informatics-Exploring-Information-ebook/dp/B00K0O8HFQ/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1483640606&sr=8-1&keywords=python+for+informatics) 
 
 ## Contents
 * [Rules](rules.md)
