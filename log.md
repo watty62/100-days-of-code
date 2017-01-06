@@ -2,11 +2,17 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 5: 2017-Jan-06 
+
+**Today's Progress** Added and tested code to create a SQLite database and populate the main table of monthly data per station. Still to create a linked table to store both the period definition (e.g. 9 = 13 Nov to 10 Dec) and the overall network performance
+
+**Thoughts** Managed over an hour again but too tired tonight to do more.
+
 ### Day 4: 2017-Jan-05 
 
 **Today's Progress**: Tidied a litte code. Worked on getting the Git files sorted and pushing those to the repo below. Also forked and published this repo.
 
-**Thoughts** Unsettled by being thrown into VI editor for the first time since about 1998! Please that I've created a first public version. 
+**Thoughts** Unsettled by being thrown into VI editor for the first time since about 1998! Pleased that I've created a first public version. 
 
 **Link(s) to work**
 You can find the project on my [Github Repo](https://github.com/watty62/SRPPM)
@@ -25,7 +31,7 @@ You can find the project on my [Github Repo](https://github.com/watty62/SRPPM)
 
 ### Day 1: 2017-Jan-02
 
-**Today's Progress**: Started my first #100DaysOfCode project today. Its purpose is to create to make railway performance data available as open data and over time. To do that, I need to scrape PDFs, extract data via [PDFTables](http://twitter.com/@pdftables) and put that into #SQLITE database, and finally visualise it. I might try to create an API too. I got the first part started. Found the target link on the page, followed it, grabbed the name of the PDF, stored that, and downloaded the PDF itself.
+**Today's Progress**: Started my first #100DaysOfCode project today. Its purpose is to make railway performance data available as open data and over time. To do that, I need to scrape PDFs, extract data via [PDFTables](http://twitter.com/@pdftables) and put that into #SQLITE database, and finally visualise it. I might try to create an API too. I got the first part started. Found the target link on the page, followed it, grabbed the name of the PDF, stored that, and downloaded the PDF itself.
 
 **Thoughts:** Having been doing no coding for what feels like years (but is more like months) it feels good to be back working on a project. This builds on the [four Coursera python courses](https://www.coursera.org/specializations/python) I studied over xmas and New Year. 
 
