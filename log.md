@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 6: 2017-Jan-07
+
+**Today's Progress** Created second and third DB tables, and linked these through foreign keys. Wrote code to extract the overall monthly performance percentages. Stored these in the Percentages table. Amended the main table so that it stores fewer fields but a pointer to the Periods table in which I store the definition of years, periods and dates covered by each report.
+
+**Thoughts** A couple of hours well spent.
+
 ### Day 5: 2017-Jan-06 
 
 **Today's Progress** Added and tested code to create a SQLite database and populate the main table of monthly data per station. Still to create a linked table to store both the period definition (e.g. 9 = 13 Nov to 10 Dec) and the overall network performance
