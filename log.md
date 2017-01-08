@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 7: 2017-Jan-08
+
+**Moved the code to drop and create SQL tables to a function, and commented out the call to it to stop existing data being lost. Started to create a routine to convert old performance reports. I have one downloaded. I have been promised others.
+
+**Thoughts** I need to test the code on the new report which will be released w/c 2017-Jan-09. Then it will be essentially complete. Need to decide on my next project - probably a Twitter one.
+
 ### Day 6: 2017-Jan-07
 
 **Today's Progress** Created second and third DB tables, and linked these through foreign keys. Wrote code to extract the overall monthly performance percentages. Stored these in the Percentages table. Amended the main table so that it stores fewer fields but a pointer to the Periods table in which I store the definition of years, periods and dates covered by each report.
