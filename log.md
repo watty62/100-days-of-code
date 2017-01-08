@@ -4,7 +4,7 @@ I've reversed sorted by date order the log below. I've also adopted ISO8601 date
 
 ### Day 7: 2017-Jan-08
 
-**Moved the code to drop and create SQL tables to a function, and commented out the call to it to stop existing data being lost. Started to create a routine to convert old performance reports. I have one downloaded. I have been promised others.
+**Today's Progress** Moved the code to drop and create SQL tables to a function, and commented out the call to it to stop existing data being lost. Started to create a routine to convert old performance reports. I have one downloaded. I have been promised others.
 
 **Thoughts** I need to test the code on the new report which will be released w/c 2017-Jan-09. Then it will be essentially complete. Need to decide on my next project - probably a Twitter one.
 
