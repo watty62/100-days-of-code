@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 8: 2017-Jan-00
+
+**Today's Progress** Was bad today. Instead of fixing my scraper to cope with malformed / inconsistently formed PDFs which break it when I try to process one, I jumped to another scraping programme for a bit of a change.
+
+**Thoughts** I must come back to the first project tomorrow. No excuses.
+
 ### Day 7: 2017-Jan-08
 
 **Today's Progress** Moved the code to drop and create SQL tables to a function, and commented out the call to it to stop existing data being lost. Started to create a routine to convert old performance reports. I have one downloaded. I have been promised others.
