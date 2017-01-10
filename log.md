@@ -2,7 +2,13 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
-### Day 8: 2017-Jan-00
+### Day 9: 2017-Jan-10
+
+**Today's Progress** Back on my main project tonight. Struggled to debug a script in Python to write to the database. Two out of three table writes are ok but the main table one is causing problems. Need to find a couple of hours back to back to sort it out tomorow.
+
+**Thoughts** Going in circles tonight.
+
+### Day 8: 2017-Jan-09
 
 **Today's Progress** Was bad today. Instead of fixing my scraper to cope with malformed / inconsistently formed PDFs which break it when I try to process one, I jumped to another scraping programme for a bit of a change.
 
