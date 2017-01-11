@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 10: 2017-Jan-11
+
+**Today's Progress** Great progress. Fixed the database write issue. Created code to test for an extra column to the right of station names in output CSV file. Pushed v1.3 of the scraper to [the repo](https://github.com/watty62/SRPPM). 
+
+**Thoughts** A much more positive night!
+
 ### Day 9: 2017-Jan-10
 
 **Today's Progress** Back on my main project tonight. Struggled to debug a script in Python to write to the database. Two out of three table writes are ok but the main table one is causing problems. Need to find a couple of hours back to back to sort it out tomorow.
