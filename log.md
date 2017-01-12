@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 11: 2017-Jan-12
+
+**Today's Progress** Struck by the difference in tone of the speeches of presidents Obama and Trump as reported on last night's news I decided to do a very quick bit of frequency analysis tonight. You can find the code in this new [repo](https://github.com/watty62/pres_speeches)
+
+**Thoughts** A fun side project.
+
 ### Day 10: 2017-Jan-11
 
 **Today's Progress** Great progress. Fixed the database write issue. Created code to test for an extra column to the right of station names in output CSV file. Pushed v1.3 of the scraper to [the repo](https://github.com/watty62/SRPPM). 
