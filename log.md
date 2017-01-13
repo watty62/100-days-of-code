@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 12: 2017-Jan-13
+
+**Today's Progress** Back to the main project. Noticed that the rail company had published new performance reports; this one for period 10 of 2016-17. I ran the scraper - and it crashed. After some investigation I spotted that they had changed the file naming convention to now use underscores instead of dashes. Created the logic to deal with that - now [scraper_v1.3.py](https://github.com/watty62/SRPPM/scraper_v1.3.py) That change followed last month's change to the PDF to introduce a blank column in the middle of the table of data for individual stations. I guess this shows how scraping is always a game of catch-up
+
+**Thoughts** Good to have three complete (4-week) periods of data built up now. 
+
 ### Day 11: 2017-Jan-12
 
 **Today's Progress** Struck by the difference in tone of the speeches of presidents Obama and Trump as reported on last night's news I decided to do a very quick bit of frequency analysis tonight. You can find the code in this new [repo](https://github.com/watty62/pres_speeches)
