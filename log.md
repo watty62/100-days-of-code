@@ -2,6 +2,26 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 13: 2017-Jan-14
+
+**Today's Progress** Published this repo on [Github Pages](http://apperdeen.org/100-days-of-code/) to make it a little more readable. 
+
+Started to think about my next project and sketch that out. Going to create a crawler and logger for my music collection. I want it to spider a structured file store, which is in the format: 
+1. Genre
+ - Artist
+ -- Album
+ --- Track
+
+ Lots of the MP3s are well tagged but not all Some are wrong. Many folders have folder.jpg but most don't. 
+
+ I want to walk the file structure, derive genre, artist, album name from the structure and then compare those with the ID3 tags. Look for untagged files, and missing folder,jpg files, and report on that. 
+
+ I might look at fixing tags automatically.
+
+ So far I have created a file-walker, set up a simplified test file structure, and got it reporting on missing folder.jpgs.
+
+**Thoughts** This is going to be a bigger project.  
+
 ### Day 12: 2017-Jan-13
 
 **Today's Progress** Back to the main project. Noticed that the rail company had published new performance reports; this one for period 10 of 2016-17. I ran the scraper - and it crashed. After some investigation I spotted that they had changed the file naming convention to now use underscores instead of dashes. Created the logic to deal with that - now [scraper_v1.4.py](https://github.com/watty62/SRPPM/) That change followed last month's change to the PDF to introduce a blank column in the middle of the table of data for individual stations. I guess this shows how scraping is always a game of catch-up
