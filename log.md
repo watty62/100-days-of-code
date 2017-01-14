@@ -8,10 +8,10 @@ I've reversed sorted by date order the log below. I've also adopted ISO8601 date
 
 Started to think about my next project and sketch that out. Going to create a crawler and logger for my music collection. I want it to spider a structured file store, which is in the format: 
 
-* Genre
-|--Artist
-   |--Album
-      |--Track
+* Genre  
+|--Artist  
+   |--Album  
+      |--Track  
 
  Lots of the MP3s are well tagged but not all Some are wrong. Many folders have folder.jpg but most don't. 
 
