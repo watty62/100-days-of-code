@@ -2,6 +2,12 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+### Day 14: 2017-Jan-15
+
+**Today's Progress** Spent a lot of time tinkering with routines using OS Walk to traverse a file structure. Looking to be able to work out how many levels deep I am at any time, and how the folder name maps onto a genre, artist, or album name. Quite a few blind alleys. Also blogged about my railway scraper [here](http://10ml.com/2017/01/scraping-goes-off-the-rails/)
+
+**Thoughts** I need a few hours straight at this one!
+
 ### Day 13: 2017-Jan-14
 
 **Today's Progress** Published this repo on [Github Pages](http://apperdeen.org/100-days-of-code/) to make it a little more readable. 
