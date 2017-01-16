@@ -2,6 +2,13 @@
 
 I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
 
+
+### Day 15: 2017-Jan-16
+
+**Today's Progress** After sruggling yesterday, I found this [script on Stackoverflow](http://stackoverflow.com/questions/7201203/python-current-directory-in-an-os-walk) It looks like I can modify this to identify the current directory and grab that as I descend though the tree structure. This will be quicker than writing this from scratch. Started amending it. 
+
+**Thoughts** Hopefully more time tomorrow to come up with something that I can publish to GitHub.
+
 ### Day 14: 2017-Jan-15
 
 **Today's Progress** Spent a lot of time tinkering with routines using OS Walk to traverse a file structure. Looking to be able to work out how many levels deep I am at any time, and how the folder name maps onto a genre, artist, or album name. Quite a few blind alleys. Also blogged about my railway scraper [here](http://10ml.com/2017/01/scraping-goes-off-the-rails/)
