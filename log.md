@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-I've reversed sorted by date order the log below. I've also adopted ISO8601 date formats for consistency. 
-
 ### Day 16: 2017-Jan-17
 
 **Today's Progress** Created a much deeper structure of test files. Got os.walk now traversing the files. Grabbing genre, artist and album from that structure. The routine still chokes on inconsistent file naming. Created a blank fucction for checking ID3 tags and grabbing content - or identifying gaps. 
