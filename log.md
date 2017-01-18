@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 17: 2017-Jan-18
+
+**Today's Progress** Changed some of my code to use RegEx to grab text from file names. Works in (almost) every case. Tested Mutagen library for reading ID3 tags. Too awkward. Settled on eyed3 library. Populated the function for checking ID3 tags. At the moment I am just printing everything but the bones are now there. Created a github repo [mp3_checker](https://github.com/watty62/mp3_checker). Pushed v1.2 as work working demo.
+
+**Thoughts** Been listening to loads of [TalkPythonToMe](https://talkpython.fm)as I walk to and from work.Highly recommended.
+
 ### Day 16: 2017-Jan-17
 
 **Today's Progress** Created a much deeper structure of test files. Got os.walk now traversing the files. Grabbing genre, artist and album from that structure. The routine still chokes on inconsistent file naming. Created a blank fucction for checking ID3 tags and grabbing content - or identifying gaps. 
