@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 19: 2017-Jan-20
+
+**Today's Progress** Back to the MP3 checker. Now doing a comparison on the Artist, Album, and Title fom the file path with those from the ID3 tags. Highlighting mis-matches. Still some issues with the more weirdly named files with miscellaneous putuation in the filename.
+
+**Thoughts** Next step to log the data, then (later) write updates to the ID3 tags.
 
 ### Day 18: 2017-Jan-19
 
