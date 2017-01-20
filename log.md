@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 18: 2017-Jan-19
+
+**Today's Progress** Jumped to creating a Slack Chat bot using this [easy formula](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html) Got it working and responding to others' input. Not much polish or finesse - but the bones are there (after only a short time). This might play a part in our [Chatbots and AI weekend](http://codethecity.org/2016/10/chatbots-and-ai-ctc8/)
+
+**Thoughts** I accept - I am easily distracted!
+
 ### Day 17: 2017-Jan-18
 
 **Today's Progress** Changed some of my code to use RegEx to grab text from file names. Works in (almost) every case. Tested Mutagen library for reading ID3 tags. Too awkward. Settled on eyed3 library. Populated the function for checking ID3 tags. At the moment I am just printing everything but the bones are now there. Created a github repo [mp3_checker](https://github.com/watty62/mp3_checker). Pushed v1.2 as work working demo.
