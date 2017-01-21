@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: 2017-Jan-21
+
+**Today's Progress** Amended the function which was comparing data derived from the file path with the ID3 tags to just return the tag values. Moved the comparison to later in the programme. Created an output file. Writes data to that with highlighted anomalies. 
+
+**Thoughts** Needs more checking, and tidying then (later) write updates to the ID3 tags.
+
 ### Day 19: 2017-Jan-20
 
 **Today's Progress** Back to the MP3 checker. Now doing a comparison on the Artist, Album, and Title fom the file path with those from the ID3 tags. Highlighting mis-matches. Still some issues with the more weirdly named files with miscellaneous putuation in the filename.
