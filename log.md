@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+
+### Day 21: 2017-Jan-22 
+**Today's Progress** Added a test flag to handle correct paths. Started to rewrite the main routine to use a dictionary. Rolled back. Needs more thought. Committed v1.3. 
+
+**Thoughts** I need to sketch his out better before jumping into more code. I might make more than one script - one to check files and log anomalies. One to read that and act to fix the anomalies. One to create an index of all music whcih I will publish to Github so I can check it from afar before buying an album.
+
 ### Day 20: 2017-Jan-21
 
 **Today's Progress** Amended the function which was comparing data derived from the file path with the ID3 tags to just return the tag values. Moved the comparison to later in the programme. Created an output file. Writes data to that with highlighted anomalies. 
