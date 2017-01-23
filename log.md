@@ -6,6 +6,12 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 22: 2017-Jan-23 
+**Today's Progress** I was able to spend a few hours working on various Python projects today. I started with my very old [Twitter Followers](https://github.com/watty62/Count_twitter_followers) scraper, hosted on Github and running on [morph.io](https://morph.io/watty62/Count_twitter_followers). This had been erroring for a long time and I hadn't got around to fixing it. Now done. Then after a few other small things I came back to the MP3 listing project. I tried creating a stripped down version and running that on my whole collection. It ran but didn't give the expected result. It is not traversing the whole tree. More work tomorrow.
+
+**Thoughts** Perplexed
+
+
 ### Day 21: 2017-Jan-22 
 **Today's Progress** Added a test flag to handle correct paths. Started to rewrite the main routine to use a dictionary. Rolled back. Needs more thought. Committed v1.3. 
 
