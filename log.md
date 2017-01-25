@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 24: 2017-Jan-25
+**Today's Progress** New file - album_lister.py now working. Has test and non-test modes. It will run through fie structure, identify folders, pull out the artist and album name, apply Title Case, create a list of Tuples , order that and write that out to a TSV file. Rough round the edges with redundant code. Runs slowly. But works.  
+
+**Thoughts** A work in progress.
+
 ### Day 23: 2017-Jan-24 
 **Today's Progress** Decided to go back to scratch on the MP3 logger. I need to separate out various separate tasks. 1. Create an artist / album index which I can access from afar (when checking if I have *that* album or not). 2. Check for missing folder.jpg's in every album folder. 3. Check the ID3 tags in every music file - are they complete and are they correct. (And establish a way as automatedly as possible to fix 2 & 3). Started to recode (1) - almost finished. 
 
