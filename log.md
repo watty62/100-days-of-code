@@ -6,6 +6,12 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+
+### Day 25: 2017-Jan-27
+**Today's Progress** Having missed my first day yesteday I could have done with more time today. As we prepare for [Code The City](http://codethecity.org)'s Chatbot and AI weekend I returned for an hour of working on a SlackBot as a demo for the weekend. I decided to use my MP3 album collection as a basis. So I am putting the albums in a SQLite database (almost done), then I am going to use the Bot to query it. For example, which albums do I have by Sonny Rollins? Do I have an album called "Stardust" etc. This builds on teh album lister, below. 
+
+**Thoughts** Soon I will be able to stand in a record shop and ask a bot if I have a certain album. 
+
 ### Day 24: 2017-Jan-25
 **Today's Progress** New file - album_lister.py now working. Has test and non-test modes. It will run through fie structure, identify folders, pull out the artist and album name, apply Title Case, create a list of Tuples , order that and write that out to a TSV file. Rough round the edges with redundant code. Runs slowly. But works.  
 
