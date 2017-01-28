@@ -7,6 +7,11 @@
 * [Resources](resources.md)
 
 
+### Day 26: 2017-Jan-28
+**Today's Progress** Had a great start today. Cleaned up the album listing script and got that fully working. Wrote the new script to take the output of that and write it to a SQLite database. There were issues with extended character sets which I overcame, logging the problem ones then fixing them at source. The day ended less well while trying to sort out VirtualEnv - which I have intended to use for a while. Something is screwed up since I installed it months ago. Spent 2 hours trying to fix it that I was going to use to work on my jazz bot. 
+
+**Thoughts** Ho hum.
+
 ### Day 25: 2017-Jan-27
 **Today's Progress** Having missed my first day yesteday I could have done with more time today. As we prepare for [Code The City](http://codethecity.org)'s Chatbot and AI weekend I returned for an hour of working on a SlackBot as a demo for the weekend. I decided to use my MP3 album collection as a basis. So I am putting the albums in a SQLite database (almost done), then I am going to use the Bot to query it. For example, which albums do I have by Sonny Rollins? Do I have an album called "Stardust" etc. This builds on teh album lister, below. 
 
