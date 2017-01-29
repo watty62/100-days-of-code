@@ -7,6 +7,11 @@
 * [Resources](resources.md)
 
 
+### Day 27: 2017-Jan-29
+**Today's Progress** Fixed my VirtualEnv setup (I think) then spent a very long time trying to get a Python library work so that I could use it in my project in VirtualEnv. 
+
+**Thoughts** Going to bed with no clear sense of what the problem is.
+
 ### Day 26: 2017-Jan-28
 **Today's Progress** Had a great start today. Cleaned up the album listing script and got that fully working. Wrote the new script to take the output of that and write it to a SQLite database. There were issues with extended character sets which I overcame, logging the problem ones then fixing them at source. The day ended less well while trying to sort out VirtualEnv - which I have intended to use for a while. Something is screwed up since I installed it months ago. Spent 2 hours trying to fix it that I was going to use to work on my jazz bot. 
 
