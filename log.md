@@ -6,6 +6,10 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 28: 2017-Jan-30
+**Today's Progress** VirtualEnv now all working. Installed my friend Andrew Sage's [Slackbot module](https://github.com/andrewsage/slackbot) which is packaged to install via pip. Created a new bot from it, using his Eventbrite example. Couldn't get it running. Spent an hour debugging to no avail.
+
+**Thoughts** Sleep on it - again!
 
 ### Day 27: 2017-Jan-29
 **Today's Progress** Fixed my VirtualEnv setup (I think) then spent a very long time trying to get a Python library work so that I could use it in my project in VirtualEnv. 
