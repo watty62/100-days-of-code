@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 29: 2017-Jan-31
+**Today's Progress** Got the new bot working just to watch it crash again and again. Some of that is from stripping specifics out of the example code I have to base my bot on. Struggling with Object Orientation and inheritance in Python. I may just revert to a non- OO version and buid on what I did last week. 
+
+**Thoughts** Another brick wall! 
+
 ### Day 28: 2017-Jan-30
 **Today's Progress** VirtualEnv now all working. Installed my friend Andrew Sage's [Slackbot module](https://github.com/andrewsage/slackbot) which is packaged to install via pip. Created a new bot from it, using his Eventbrite example. Couldn't get it running. Spent an hour debugging to no avail.
 
