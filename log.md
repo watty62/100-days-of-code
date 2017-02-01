@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 30: 2017-Feb-01
+**Today's Progress** Gave the Object Oriented version of my jazzbot one last try then abandoned it. I was fighting three things - insufficient knowledge of OO in Python, re-using someone else's code and stripping out Eventbrite-specific code from the example. I went back to my [original one](https://github.com/watty62/jazzbot). Made good headway. Still to hook it up to SQLIte database but the help and other commands all now work as expected. 
+
+**Thoughts** If you can't get over a brick wall, go through it.
+
 ### Day 29: 2017-Jan-31
 **Today's Progress** Got the new bot working just to watch it crash again and again. Some of that is from stripping specifics out of the example code I have to base my bot on. Struggling with Object Orientation and inheritance in Python. I may just revert to a non- OO version and buid on what I did last week. 
 
