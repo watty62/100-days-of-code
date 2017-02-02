@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 31: 2017-Feb-02
+**Today's Progress** My most productive day for a while. The main functions of my [Slack Jazzbot](https://github.com/watty62/jazzbot) are now working. It has a help command which gives exmaples of commands: a 'what' command which returns all albums I have by an artist; a 'count' cpmmand which returns the number of albums by an artist, and an 'album' command which takes an album title and returns which artists have an album by that name. I've tested these quite heavily and coped with upper and lower cases and missing or present question marks at the end of commands.
+
+**Thoughts** Very pleased.
+
 ### Day 30: 2017-Feb-01
 **Today's Progress** Gave the Object Oriented version of my jazzbot one last try then abandoned it. I was fighting three things - insufficient knowledge of OO in Python, re-using someone else's code and stripping out Eventbrite-specific code from the example. I went back to my [original one](https://github.com/watty62/jazzbot). Made good headway. Still to hook it up to SQLIte database but the help and other commands all now work as expected. 
 
