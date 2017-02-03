@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 32: 2017-Feb-03
+**Today's Progress** Another successful session on [Slack Jazzbot](https://github.com/watty62/jazzbot) I now have a wildcard search working on the musicians names. Yesterday I discovered an error in my Database where the original script had been writing a newline character at the end of album titles. I coded around it. Today I fixed that in the original script - re-populating the database - and removed the code-around. Broke two functions. More work tomorrow to fix that. 
+
+**Thoughts** Two steps forward, one back.
+
 ### Day 31: 2017-Feb-02
 **Today's Progress** My most productive day for a while. The main functions of my [Slack Jazzbot](https://github.com/watty62/jazzbot) are now working. It has a help command which gives exmaples of commands: a 'what' command which returns all albums I have by an artist; a 'count' cpmmand which returns the number of albums by an artist, and an 'album' command which takes an album title and returns which artists have an album by that name. I've tested these quite heavily and coped with upper and lower cases and missing or present question marks at the end of commands.
 
