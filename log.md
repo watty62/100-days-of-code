@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 33: 2017-Feb-03
+**Today's Progress** Another couple of hours on [Slack Jazzbot](https://github.com/watty62/jazzbot) Fixed the broken function - it wasn't in the function. It was in the if....elif sectin which calls them. As I had re-ordered the options I had created a 2nd if instead of an elif! Created a second wildcard search for album titles. Tested the whole bot hard. Seems quite robust. Added five more albums to my mp3 library. Re-ran the functions to create lists and the SQLite database. Tested that these appear in the bot. 
+
+**Thoughts** One third of the way through the #100daysofcode programme already! 
+
 ### Day 32: 2017-Feb-03
 **Today's Progress** Another successful session on [Slack Jazzbot](https://github.com/watty62/jazzbot) I now have a wildcard search working on the musicians names. Yesterday I discovered an error in my Database where the original script had been writing a newline character at the end of album titles. I coded around it. Today I fixed that in the original script - re-populating the database - and removed the code-around. Broke two functions. More work tomorrow to fix that. 
 
