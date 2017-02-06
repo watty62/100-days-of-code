@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 35: 2017-Feb-05
+**Today's Progress** Working on two routines in [MP3 Tag checker](https://github.com/watty62/mp3_checker) - one of which lists files well, writes them to a TSV vile, and the other which I previously got working to read ID3 tags and compare them to the file path. I need to combine the best of both. Started that, but not finished. 
+
+**Thoughts** Not a lot of time tonight!
+
 ### Day 34: 2017-Feb-04
 **Today's Progress** Back to my [MP3 Tag checker](https://github.com/watty62/mp3_checker). Having previously got it working out albums and artists from the file paths (abd storing those in a SQLite database - which feeds my Slac Jazzbot), I'm now working at the tune level. Got a quick versions working and uploaded. Needs some refinement. Then to get into the ID3 tags, checking those for completeness and accuracy.
 
