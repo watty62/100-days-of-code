@@ -6,17 +6,22 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-### Day 35: 2017-Feb-05
+### Day 36: 2017-Feb-07
+**Today's Progress** Improved the comparison of filepath and ID3 tags. Got that writing to a new TSV file (csv no use as some file tags contain commas). 
+
+**Thoughts** Moving slowly forward. Having more free time would be welcome!
+
+### Day 35: 2017-Feb-06
 **Today's Progress** Working on two routines in [MP3 Tag checker](https://github.com/watty62/mp3_checker) - one of which lists files well, writes them to a TSV vile, and the other which I previously got working to read ID3 tags and compare them to the file path. I need to combine the best of both. Started that, but not finished. 
 
 **Thoughts** Not a lot of time tonight!
 
-### Day 34: 2017-Feb-04
+### Day 34: 2017-Feb-05
 **Today's Progress** Back to my [MP3 Tag checker](https://github.com/watty62/mp3_checker). Having previously got it working out albums and artists from the file paths (abd storing those in a SQLite database - which feeds my Slac Jazzbot), I'm now working at the tune level. Got a quick versions working and uploaded. Needs some refinement. Then to get into the ID3 tags, checking those for completeness and accuracy.
 
 **Thoughts** Back to an old favourite.
 
-### Day 33: 2017-Feb-03
+### Day 33: 2017-Feb-04
 **Today's Progress** Another couple of hours on [Slack Jazzbot](https://github.com/watty62/jazzbot) Fixed the broken function - it wasn't in the function. It was in the if....elif sectin which calls them. As I had re-ordered the options I had created a 2nd if instead of an elif! Created a second wildcard search for album titles. Tested the whole bot hard. Seems quite robust. Added five more albums to my mp3 library. Re-ran the functions to create lists and the SQLite database. Tested that these appear in the bot. 
 
 **Thoughts** One third of the way through the #100daysofcode programme already! 
