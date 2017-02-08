@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 37: 2017-Feb-08
+**Today's Progress** Spent ages dealing with ghost Mac OSX files which OS.walk finds. I'd not come across them until now as I'd been testing on directories created on Windows. Had to code around. Also fixed erroneous comparison of artist from file path and id_artist from ID3 tags. My error using ".lower" instead of ".lower()" Only noticed when in a TSV and spotted that all albums failed this test. 
+
+**Thoughts** Spent time dealing with errors. Now listing in TSV works. Need to run it against full file structure (not just test one) then start writing thit all to SQLite.
+
 ### Day 36: 2017-Feb-07
 **Today's Progress** Improved the comparison of filepath and ID3 tags. Got that writing to a new TSV file (csv no use as some file tags contain commas). 
 
