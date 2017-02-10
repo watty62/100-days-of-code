@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 38: 2017-Feb-10 
+**Today's Progress** Had a day off yesterday. Spent a day floating between projects. Tested my [Railway Performance Data Scraper](https://github.com/watty62/SRPPM/) on a new batch of live data. It worked flawlessly. Committed the new files to Github. Updated the [Code the City website](http://codethecity.org) with dates of future events. Created a missing page for a past event. Then created [two new repos](https://github.com/CodeTheCity) and converting data from Google Docs and pushing those to the repos. These will hold open data which should have been uploaded from provious events and could be reused at CTC8. 
+
+**Thoughts** Not a great deal of pure coding but a lot of useful activity today.
+
 ### Day 37: 2017-Feb-08
 **Today's Progress** Spent ages dealing with ghost Mac OSX files which OS.walk finds. I'd not come across them until now as I'd been testing on directories created on Windows. Had to code around. Also fixed erroneous comparison of artist from file path and id_artist from ID3 tags. My error using ".lower" instead of ".lower()" Only noticed when in a TSV and spotted that all albums failed this test. 
 
