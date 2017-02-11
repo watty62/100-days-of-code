@@ -6,8 +6,13 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 39: 2017-Feb-11
+**Today's Progress** Completed te work I started yesterday on creating new repos and populating these with Open Data converted from Goggle Docs. Back to work on my MP3 lister. Got a full script working. Tried running on the full music collection. Encountered many errors. I need to build in more error trapping - and also logging which directories have been crawled so that each run doesn't start from scratch. 
+
+**Thoughts** Getting stuck back into it.
+
 ### Day 38: 2017-Feb-10 
-**Today's Progress** Had a day off yesterday. Spent a day floating between projects. Tested my [Railway Performance Data Scraper](https://github.com/watty62/SRPPM/) on a new batch of live data. It worked flawlessly. Committed the new files to Github. Updated the [Code the City website](http://codethecity.org) with dates of future events. Created a missing page for a past event. Then created [two new repos](https://github.com/CodeTheCity) and converting data from Google Docs and pushing those to the repos. These will hold open data which should have been uploaded from provious events and could be reused at CTC8. 
+**Today's Progress** Had a day off yesterday. Spent today floating between projects. Tested my [Railway Performance Data Scraper](https://github.com/watty62/SRPPM/) on a new batch of live data. It worked flawlessly. Committed the new files to Github. Updated the [Code the City website](http://codethecity.org) with dates of future events. Created a missing page for a past event. Then created [two new repos](https://github.com/CodeTheCity) and converting data from Google Docs and pushing those to the repos. These will hold open data which should have been uploaded from provious events and could be reused at CTC8. 
 
 **Thoughts** Not a great deal of pure coding but a lot of useful activity today.
 
