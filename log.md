@@ -6,8 +6,13 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 40: 2017-Feb-12
+**Today's Progress** As I run through the MP3 files and compare the album name or tune title and compare those with the ID3 tags, I've run into so many errors today. Inconsistent use of Unicode, comparing strings with unicode - and finding FLAC files which should not have been uploaded without MP3 conversion. This [guide](http://nedbatchelder.com/text/unipain.html) and its Unicode sandwich philosophy should prove useful. 
+
+**Thoughts** Frustrating day. 
+
 ### Day 39: 2017-Feb-11
-**Today's Progress** Completed te work I started yesterday on creating new repos and populating these with Open Data converted from Goggle Docs. Back to work on my MP3 lister. Got a full script working. Tried running on the full music collection. Encountered many errors. I need to build in more error trapping - and also logging which directories have been crawled so that each run doesn't start from scratch. 
+**Today's Progress** Completed the work I started yesterday on creating new repos and populating these with Open Data converted from Google Docs. Back to work on my MP3 lister. Got a full script working. Tried running on the full music collection. Encountered many errors. I need to build in more error trapping - and also logging which directories have been crawled so that each run doesn't start from scratch. 
 
 **Thoughts** Getting stuck back into it.
 
