@@ -6,8 +6,8 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-### Day 40: 2017-Feb-12
-**Today's Progress** Sidestepped my regular projects tonight. Decided to get a bit more up to speed on Javascript. Not done much in the last 3 or 4 years. Started on FreeCodeCamp's syllabus. Very effective programme by the look of it! 
+### Day 41: 2017-Feb-13
+**Today's Progress** Sidestepped my regular projects tonight. Decided to get a bit more up to speed on Javascript. Not done much in the last 3 or 4 years. Started on FreeCodeCamp's syllabus. Very effective programme by the look of it! Covered HTML 5, CSS and started on JQuery. 
 
 **Thoughts** Enjoying the diversion!
 
