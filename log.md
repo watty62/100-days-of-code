@@ -7,6 +7,11 @@
 * [Resources](resources.md)
 
 ### Day 40: 2017-Feb-12
+**Today's Progress** Sidestepped my regular projects tonight. Decided to get a bit more up to speed on Javascript. Not done much in the last 3 or 4 years. Started on FreeCodeCamp's syllabus. Very effective programme by the look of it! 
+
+**Thoughts** Enjoying the diversion!
+
+### Day 40: 2017-Feb-12
 **Today's Progress** As I run through the MP3 files and compare the album name or tune title and compare those with the ID3 tags, I've run into so many errors today. Inconsistent use of Unicode, comparing strings with unicode - and finding FLAC files which should not have been uploaded without MP3 conversion. This [guide](http://nedbatchelder.com/text/unipain.html) and its Unicode sandwich philosophy should prove useful. 
 
 **Thoughts** Frustrating day. 
