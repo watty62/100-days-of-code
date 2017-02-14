@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 42: 2017-Feb-14
+**Today's Progress** Working through more Freecodcamp exercises. Playing with Bootstrap and CSS3 for the first time with any seriousness. Feels like I am fighting it!
+
+**Thoughts** Me versus Bootstrap.
+
 ### Day 41: 2017-Feb-13
 **Today's Progress** Sidestepped my regular projects tonight. Decided to get a bit more up to speed on Javascript. Not done much in the last 3 or 4 years. Started on FreeCodeCamp's syllabus. Very effective programme by the look of it! Covered HTML 5, CSS and started on JQuery. 
 
