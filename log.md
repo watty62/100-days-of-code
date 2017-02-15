@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 43: 2017-Feb-15
+**Today's Progress** Can't wait to finish coding this portfolio in Bootstrap / CSS. Keep heading down blind alleys and ditching loads of code. 
+
+**Thoughts** Thrown into this too quickly?
+
 ### Day 42: 2017-Feb-14
 **Today's Progress** Working through more Freecodcamp exercises. Playing with Bootstrap and CSS3 for the first time with any seriousness. Feels like I am fighting it!
 
