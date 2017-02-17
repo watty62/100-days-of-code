@@ -6,6 +6,16 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 45: 2017-Feb-17
+**Today's Progress** Finally finished the portfolio. NOt sure how well I understood what I put together - but it works. Back to Javascript exercises. Not sure how effective this was as a training exercise after such litte exposure to bootstrap etc in th erun up to it. Seemed to be too big a leap. 
+
+**Thoughts** Missing building things in Python. 
+
+### Day 44: 2017-Feb-16
+**Today's Progress** Making headway with the portfolio. Find an example, copy a bit, try to make it work. Add that. Slow progress. 
+
+**Thoughts** Almost done
+
 ### Day 43: 2017-Feb-15
 **Today's Progress** Can't wait to finish coding this portfolio in Bootstrap / CSS. Keep heading down blind alleys and ditching loads of code. 
 
