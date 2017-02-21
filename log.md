@@ -6,17 +6,17 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-### Day 45: 2017-Feb-21
+### Day 48: 2017-Feb-21
 **Today's Progress** Completed Object Oriented and Functional Programming. Now started on Basic Algorithm Scripting. 
 
 **Thoughts** This might last 50 hours! I miss the fluency of Python. Still re-learning Javascript after years.
 
-### Day 45: 2017-Feb-20
+### Day 47: 2017-Feb-20
 **Today's Progress** Completed "Basic Javascript". 
 
 **Thoughts** Nice to tick off sections of the course.
 
-### Day 45: 2017-Feb-19
+### Day 46: 2017-Feb-19
 **Today's Progress** Keeping on with the Javascipt exercises of FreeCodeCamp. 
 
 **Thoughts** Will it ever end? 
