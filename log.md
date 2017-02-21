@@ -6,8 +6,23 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-### Day 45: 2017-Feb-17
-**Today's Progress** Finally finished the portfolio. NOt sure how well I understood what I put together - but it works. Back to Javascript exercises. Not sure how effective this was as a training exercise after such litte exposure to bootstrap etc in th erun up to it. Seemed to be too big a leap. 
+### Day 45: 2017-Feb-21
+**Today's Progress** Completed Object Oriented and Functional Programming. Now started on Basic Algorithm Scripting. 
+
+**Thoughts** This might last 50 hours! I miss the fluency of Python. Still re-learning Javascript after years.
+
+### Day 45: 2017-Feb-20
+**Today's Progress** Completed "Basic Javascript". 
+
+**Thoughts** Nice to tick off sections of the course.
+
+### Day 45: 2017-Feb-19
+**Today's Progress** Keeping on with the Javascipt exercises of FreeCodeCamp. 
+
+**Thoughts** Will it ever end? 
+
+### Day 45: 2017-Feb-18
+**Today's Progress** Finally finished the portfolio. Not sure how well I understood what I put together - but it works. Back to Javascript exercises. Not sure how effective this was as a training exercise after such litte exposure to bootstrap etc in the run up to it. Seemed to be too big a leap. 
 
 **Thoughts** Missing building things in Python. 
 
