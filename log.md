@@ -6,6 +6,27 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 52: 2017-Feb-26
+**Today's Progress**  Day 2 of [Code The City 8](https://github.com/CodeTheCity/CTC8) One of our team of three was too ill to attend the hack weekend today. I wrote some rudimentary code to acess the SQLite database of feeds which is eveloving quickly. The bot demands a two phrase command in the form 'theme place' such as 'music Aberdeen' or 'exhibition Forfar'. This is too rigid. Also the terseness of some RSS feeds leaves us very short of material to work with. We extended the database to have two new fields: Categories and Tags. The first can be found in one of thr RSS - and possibly inferred from the other ones. We're going to generate the second. The bot code is lagging behind for now. 
+
+** Thoughts ** Another successful, productive hack weekend with great people who wanted to keep working as we shut down a close of play, day 2! 
+
+### Day 51: 2017-Feb-25
+**Today's Progress**  Day 1 of [Code The City 8](https://github.com/CodeTheCity/CTC8). We had almost 40 attendees who identified 6 projects to work on. I added new Github repos for each, added teams to support them and invited team members to participate. I also was part of the team working on the project[stuff-happens](https://github.com/CodeTheCity/stuff-happens) to deevelop a chatbot to answer questions about events across multiple local authorities' areas derived from their RSS events feeds. 
+
+**Thoughts** The quality of the RSS events feeds which we are dealing with varies enormously. 
+
+### Day 50: 2017-Feb-24
+
+**Today's Progress**  Preparing for Code The City #8. I've set up [this repo](https://github.com/CodeTheCity/CTC8) to act as a parent place for the whole weekend. Having done that I ran back though and did the same for CTC4, CTC5, CTC6 and CTC7. I then added links to projects at each of those weekends. This exposed quite a few projects which only had stub repos - or none at all. We need to manage this better!
+
+**Thoughts** How to improve your stats on Github in one day of activity. 
+
+### Day 49: 2017-Feb-22
+**Today's Progress** Carrying on with the Freecodecamp execises and challenges. 
+
+**Thoughts** Missing Python - but hope to get back to that for a while this weekend.
+
 ### Day 48: 2017-Feb-21
 **Today's Progress** Completed Object Oriented and Functional Programming. Now started on Basic Algorithm Scripting. 
 
