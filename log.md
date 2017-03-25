@@ -6,6 +6,11 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Day 53: 2017-Mar-25
+**Today's Progress**  After a very long lay-off due to work pressures, I did two things today. The first was to attend a local Python meetup this morning. This second was to follow [this tutorial](https://medium.com/@PicardParis/building-a-serverless-python-app-in-minutes-with-gcp-5184d21a012f#.e3q3ovmb2) and its predecessors - see the links - to set up a Google Cloud Platform account and app working. Looks like this will be a useful way to deply web apps. 
+
+** Thoughts ** I've not been entirely lazy in the last month - some small periods of coding - but I've not considered them worth writing up.
+
 ### Day 52: 2017-Feb-26
 **Today's Progress**  Day 2 of [Code The City 8](https://github.com/CodeTheCity/CTC8) One of our team of three was too ill to attend the hack weekend today. I wrote some rudimentary code to acess the SQLite database of feeds which is eveloving quickly. The bot demands a two phrase command in the form 'theme place' such as 'music Aberdeen' or 'exhibition Forfar'. This is too rigid. Also the terseness of some RSS feeds leaves us very short of material to work with. We extended the database to have two new fields: Categories and Tags. The first can be found in one of thr RSS - and possibly inferred from the other ones. We're going to generate the second. The bot code is lagging behind for now. 
 
